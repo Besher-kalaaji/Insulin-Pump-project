@@ -19,4 +19,5 @@ This project is an embedded system based on the ATSAMD21G18A MCU, designed to ma
 - Expandable I/O: Provides headers for additional connections such as MISO, MOSI, and SCLK, allowing for further expansion of the system.
 - USB Power Input: Features a USB mini-B connector for easy power input and device programming.
 
-  
+![Insulin_Pump_Bottom2](https://github.com/user-attachments/assets/fb4c2f37-97cd-4961-a42a-34909b714bd1)
+
